@@ -1,8 +1,17 @@
-"scripts": {
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
   "server": "node index.js",
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
   "start": "concurrently \"npm run server\" \"npm run dev\"",
   "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
