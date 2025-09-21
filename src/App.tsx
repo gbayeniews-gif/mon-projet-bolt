@@ -1,0 +1,10 @@
+import { ClientsPage } from './pages/ClientsPage';
+import { NewClientPage } from './pages/NewClientPage';
+import { ClientDetailPage } from './pages/ClientDetailPage';
+import { MesuresPage } from './pages/MesuresPage';
+import { CommandesPage } from './pages/CommandesPage';
+import { CommandeDetailPage } from './pages/CommandeDetailPage';
+import { AlertsPage } from './pages/AlertsPage';
+import { ProfilePage } from './pages/ProfilePage';
+import { LoadingSpinner } from './components/LoadingSpinner';
+import { MesModelesPage } from "./pages/MesModelesPage";
